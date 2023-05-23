@@ -1,0 +1,2 @@
+void sigmoid();
+void softmax();

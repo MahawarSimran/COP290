@@ -1,0 +1,1 @@
+/home/simran/Documents/code/subtask3/mfcc_features/ba676390_nohash_0.txt	left	right	unknown	0.999991	7.78236e-06	7.35784e-07
